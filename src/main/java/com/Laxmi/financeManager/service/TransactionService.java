@@ -14,6 +14,9 @@ public class TransactionService {
     public Transaction saveTransaction(Transaction transaction) {
         return transactionRepository.save(transaction);
     }
+    public List<Transaction> findTransactionsByUserId(Long userId) {
+        return transactionRepository.findByUserId(userId); // Ensure this method exists in the repository
+    }
 
 
     public List<Transaction> getAllTransactions() {
