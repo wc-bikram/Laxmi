@@ -43,3 +43,14 @@ Make sure you have the following installed:
    ```bash
    git clone https://github.com/yourusername/finance-manager.git
    cd finance-manager
+
+
+### How to Use
+1. **Copy the above Markdown code** into a new file named `README.md` in the root directory of your project.
+2. **Customize the content** to match your project’s specifics, such as your GitHub username in the clone command and any other details you wish to include.
+3. **Commit the changes** and push to your GitHub repository:
+   ```bash
+   git add README.md
+   git commit -m "Add README file"
+   git push origin main
+
