@@ -41,7 +41,7 @@ Make sure you have the following installed:
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/finance-manager.git
+   git clone https://github.com/wc-bikram/Laxmi.git
    cd finance-manager
 
 
